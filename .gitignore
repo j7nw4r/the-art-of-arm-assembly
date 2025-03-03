@@ -1,0 +1,17 @@
+*.o
+*.out
+*.bin
+*.elf
+*.hex
+*.lst
+*.map
+*.sym
+*.bin
+*.elf
+*.hex
+*.lst
+*.map
+*.sym
+
+listing*
+!listing*.s
