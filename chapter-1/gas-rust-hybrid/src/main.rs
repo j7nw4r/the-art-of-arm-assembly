@@ -1,5 +1,7 @@
 use std::arch::global_asm;
 
+// testing signing.
+
 global_asm!(
     "
 // Listing1-3.s
